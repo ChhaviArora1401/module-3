@@ -1,4 +1,4 @@
-## Module 3 Coding Assignment
+# Module 3 Coding Assignment
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 link: https://chhaviarora1401.github.io/module-3/assignment-3/index.html
