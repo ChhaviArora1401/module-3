@@ -1,6 +1,7 @@
 # Module 3 Coding Assignment
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
+
 link: https://chhaviarora1401.github.io/module-3/assignment-3/index.html
 
 Time to complete: About 1 hour or less.
